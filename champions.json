@@ -1,0 +1,437 @@
+[
+  {
+    "championName": "Briar",
+    "abilities": [
+      "Head Rush",
+      "Blood Frenzy/Snack Attack",
+      "Chilling Scream"
+    ],
+    "ulitimateAbility": "Certain Death",
+    "region": "Noxus",
+    "difficulty": "High",
+    "role": "Jungle",
+    "range": false,
+    "lore": "A failed experiment by the Black Rose, Briar's uncontrollable bloodlust required a special pillory to focus her frenzied mind. After years of confinement, this living weapon broke free from her restraints and unleashed herself into the world. Now she's controlled by no one—following only her hunger for knowledge and blood—and relishes the opportunities to let loose, even if reining back the frenzy isn't easy.",
+    "id": "a7257efa-9cf7-4e55-9f8e-0c0f79b6d260"
+  },
+  {
+    "id": "b2bdec2b-c553-4ee0-b4fe-7b0e8dacb642",
+    "championName": "Amumu",
+    "abilities": [
+      "Bandage toss",
+      "Despair",
+      "Tantrum"
+    ],
+    "ulitimateAbility": "Curse of the sad mummy",
+    "region": "Shurima",
+    "difficulty": "low",
+    "role": "Jungle",
+    "range": false,
+    "lore": "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe a living cadaver, small in stature and wrapped in creeping bandages. Amumu has inspired myths, songs, and folklore told and retold for generations—such that it is impossible to separate truth from fiction."
+  },
+  {
+    "id": "4719cd4d-6c77-4ecd-b84a-d4e733eb3f83",
+    "championName": "Aurelion Sol",
+    "abilities": [
+      "Breath of light",
+      "Astral flight",
+      "Singularity"
+    ],
+    "ulitimateAbility": "Falling star/The skies descend",
+    "region": "Targon",
+    "difficulty": "high",
+    "role": "Middle",
+    "range": true,
+    "lore": "Aurelion Sol once graced the vast emptiness of the cosmos with celestial wonders of his own devising. Now, he is forced to wield his awesome power at the behest of a space-faring empire that tricked him into servitude. Desiring a return to his star-forging ways, Aurelion Sol will drag the very stars from the sky, if he must, in order to regain his freedom."
+  },
+  {
+    "id": "d23a7c72-fb20-4fcd-a232-55aca95ec612",
+    "championName": "blitzcrank",
+    "abilities": [
+      "Rocket grab",
+      "overdrive",
+      "power fist"
+    ],
+    "ulitimateAbility": "static field",
+    "region": "zaun",
+    "difficulty": "high",
+    "role": "support",
+    "range": false,
+    "lore": "Blitzcrank is an enormous, near-indestructible automaton from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump. Blitzcrank selflessly uses his strength and durability to protect others, extending a helpful metal fist or burst of energy to subdue any troublemakers."
+  },
+  {
+    "id": "cf6012ed-105e-4ca4-b0a6-f66370e8dfa5",
+    "championName": "Rakan",
+    "abilities": [
+      "Gleaming quill",
+      "Grand entrance",
+      "Battle Dance"
+    ],
+    "ulitimateAbility": "The Quickness",
+    "region": "Ionia",
+    "difficulty": "High",
+    "role": "Support",
+    "range": false,
+    "lore": "As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name has long been synonymous with wild festivals, uncontrollable parties, and anarchic music. Few would suspect this energetic, traveling showman is also partner to the rebel Xayah, and is dedicated to her cause."
+  },
+  {
+    "id": "88c4f208-068f-4712-b1fe-1e698350bf43",
+    "championName": "Darius",
+    "abilities": [
+      "Decimate",
+      "Crippling strike",
+      "Apprehend"
+    ],
+    "ulitimateAbility": "Noxian Guillotine",
+    "region": "Noxus",
+    "difficulty": "Low",
+    "role": "Top",
+    "range": false,
+    "lore": "There is no greater symbol of Noxian might than Darius, the nation’s most feared and battle-hardened leader. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire’s enemies—many of them Noxians themselves. Knowing that he never doubts his cause is just, and never hesitates once his axe is raised, those who stand against the commander of the Trifarian Legion can expect no mercy."
+  },
+  {
+    "id": "b3db2a05-90f6-4960-8d68-cf91de4eb35f",
+    "championName": "Yuumi",
+    "abilities": [
+      "Prowling Projectile",
+      "You and me",
+      "Zoomies"
+    ],
+    "ulitimateAbility": "Final chapter",
+    "region": "Bandle city",
+    "difficulty": "Low",
+    "role": "support",
+    "range": true,
+    "lore": "A magical cat from Bandle City, Yuumi was once the familiar of a yordle enchantress, Norra. When her master mysteriously disappeared, Yuumi became the Keeper of Norra's sentient Book of Thresholds, traveling through portals in its pages to search for her. Yearning for affection, Yuumi seeks friendly companions to partner with on her journey, protecting them with luminous shields and fierce resolve. While Book strives to keep her on task, Yuumi is often drawn to worldly comforts, such as naps and fish. In the end, however, she always returns to her quest to find her friend."
+  },
+  {
+    "id": "7402dbfe-3243-4149-9e2f-e88ef41fa3b9",
+    "championName": "Rell",
+    "abilities": [
+      "Shattering strike",
+      "Ferromancy: Crash down/ Ferromancy: Mount up",
+      "Full tilt"
+    ],
+    "ulitimateAbility": "magnet storm",
+    "region": "Noxus",
+    "difficulty": "High",
+    "role": "support",
+    "range": true,
+    "lore": "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control over metal... until she staged a violent escape, killing many of her captors in the process. Now branded as a criminal, Rell attacks Noxian soldiers on sight as she searches for survivors of her old 'academy,' defending the meek while delivering violent death to her former overseers."
+  },
+  {
+    "id": "49616e13-4faf-4a98-ad24-d045dccf7e70",
+    "championName": "Orianna",
+    "abilities": [
+      "Command: Attack",
+      "Command: Disonance",
+      "Command: Shield"
+    ],
+    "ulitimateAbility": "Command: Shockwave",
+    "region": "Zaun",
+    "difficulty": "High",
+    "role": "Mid",
+    "range": true,
+    "lore": "Once a curious girl of flesh and blood, Orianna is now a technological marvel comprised entirely of clockwork. She became gravely ill after an accident in the lower districts of Zaun, and her failing body had to be replaced with exquisite artifice, piece by piece. Accompanied by an extraordinary brass sphere she built for companionship and protection, Orianna is now free to explore the wonders of Piltover, and beyond."
+  },
+  {
+    "id": "03a29ee7-fd90-41a3-9cb7-757af38ef3af",
+    "championName": "Nami",
+    "abilities": [
+      "Aqua Prison",
+      "Ebb and Flow",
+      "Tidecallers Blessing"
+    ],
+    "ulitimateAbility": "Tidal wave",
+    "region": "Ionian Ocean",
+    "difficulty": "High",
+    "role": "support",
+    "range": true,
+    "lore": "A headstrong young vastaya of the seas, Nami was the first of the Marai tribe to leave the waves and venture onto dry land, when their ancient accord with the Targonians was broken. With no other option, she took it upon herself to complete the sacred ritual that would ensure the safety of her people. Amidst the chaos of this new age, Nami faces an uncertain future with grit and determination, using her Tidecaller staff to summon the strength of the oceans themselves."
+  },
+  {
+    "id": "5d95af95-d634-41d6-92ea-88e658b2425b",
+    "championName": "Kennen",
+    "abilities": [
+      "Thundering Shuriken",
+      "Electrical Surge",
+      "Lightning Rush"
+    ],
+    "ulitimateAbility": "Slicing Maelstrom",
+    "region": "Ionia",
+    "difficulty": "High",
+    "role": "Top",
+    "range": true,
+    "lore": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm, employing devastating electrical energy to strike down his enemies."
+  },
+  {
+    "id": "5db485c5-9705-43b3-8dcd-cc70df8264ee",
+    "championName": "Sylas",
+    "abilities": [
+      "Chain Lash",
+      "Kingslayer",
+      "Abscond/Abduct"
+    ],
+    "ulitimateAbility": "Hijack",
+    "region": "Demacia",
+    "difficulty": "High",
+    "role": "Mid",
+    "range": false,
+    "lore": "Raised in one of Demacia’s lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him for turning those same powers against them. Having now broken free, Sylas lives as a hardened revolutionary, using the magic of those around him to destroy the kingdom he once served… and his band of outcast mage followers seems to grow by the day."
+  },
+  {
+    "id": "cc7d2f7f-2629-45b1-ab94-1025296d04f7",
+    "championName": "Olaf",
+    "abilities": [
+      "Undertow",
+      "Tough it out",
+      "Reckless swing"
+    ],
+    "ulitimateAbility": "Ragnarok",
+    "region": "Frejlord",
+    "difficulty": "low",
+    "role": "top",
+    "range": false,
+    "lore": "An unstoppable force of destruction, the axe-wielding Olaf wants nothing but to die in glorious combat. Hailing from the brutal Freljordian peninsula of Lokfar, he once received a prophecy foretelling his peaceful passing—a coward's fate, and a great insult among his people. Seeking death, and fueled by rage, he rampaged across the land, slaughtering scores of great warriors and legendary beasts in search of any opponent who could stop him. Now a brutal enforcer for the Winter's Claw, he seeks his end in the great wars to come."
+  },
+  {
+    "id": "bc0453f3-a27d-4584-aadd-8066debee371",
+    "championName": "Lillia",
+    "abilities": [
+      "Blooming Blows",
+      "Watch out! Eep!",
+      "Swirlseed"
+    ],
+    "ulitimateAbility": "Lilting lullaby",
+    "region": "Ionia",
+    "difficulty": "High",
+    "role": "Jungle",
+    "range": false,
+    "lore": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming Tree. She now travels Ionia with a magical branch in hand, in an effort to find people's unrealized dreams. Only then can Lillia herself bloom and help others untangle their fears to find the sparkle within. Eep!"
+  },
+  {
+    "id": "d41379bf-97ca-4cb4-b36c-97ec63d846f3",
+    "championName": "Teemo",
+    "abilities": [
+      "Blinding dart",
+      "Move quick",
+      "Toxic shot"
+    ],
+    "ulitimateAbility": "Noxious trap",
+    "region": "Bandle city",
+    "difficulty": "Low",
+    "role": "Top",
+    "range": true,
+    "lore": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with."
+  },
+  {
+    "id": "5191f6f0-195a-41b2-a476-03c9e06dc26f",
+    "championName": "Zed",
+    "abilities": [
+      "Razor Shuriken",
+      "Living shadow",
+      "Shadow slash"
+    ],
+    "ulitimateAbility": "Death mark",
+    "region": "Ionia",
+    "difficulty": "High",
+    "role": "Mid",
+    "range": false,
+    "lore": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia’s magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form—a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order."
+  },
+  {
+    "id": "4a523a7f-3049-4426-a79f-49456795b949",
+    "championName": "Ahri",
+    "abilities": [
+      "Orb. of deception",
+      "Fox fire",
+      "Charm"
+    ],
+    "ulitimateAbility": "Spirit rush",
+    "region": "Ionia",
+    "difficulty": "High",
+    "role": "Mid",
+    "range": true,
+    "lore": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can reshape magic into orbs of raw energy. She revels in toying with her prey by manipulating their emotions before devouring their life essence. Despite her predatory nature, Ahri retains a sense of empathy as she receives flashes of memory from each soul she consumes."
+  },
+  {
+    "id": "1a142a25-5d66-4884-bc38-6708b6056db0",
+    "championName": "Shyvana",
+    "abilities": [
+      "Twin Bite",
+      "Burnout",
+      "Flame breath"
+    ],
+    "ulitimateAbility": "Dragon's Descent",
+    "region": "Demacia",
+    "difficulty": "Low",
+    "role": "Jungle",
+    "range": false,
+    "lore": "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia."
+  },
+  {
+    "id": "869b9d49-1592-45d2-9de6-24b257e6845b",
+    "championName": "Samira",
+    "abilities": [
+      "Flair",
+      "Blade whirl",
+      "Wild rush"
+    ],
+    "ulitimateAbility": "Inferno Trigger",
+    "region": "Noxus",
+    "difficulty": "High",
+    "role": "Bot",
+    "range": true,
+    "lore": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair."
+  },
+  {
+    "id": "1954bc22-a5aa-4527-b95b-96b516c94535",
+    "championName": "Nasus",
+    "abilities": [
+      "Siphoning Strike",
+      "Wither",
+      "Spirit fire"
+    ],
+    "ulitimateAbility": "Fury of the sands",
+    "region": "Shurima",
+    "difficulty": "Low",
+    "role": "Top",
+    "range": false,
+    "lore": "Nasus is an imposing, jackal-headed Ascended being from ancient Shurima, a heroic figure regarded as a demigod by the people of the desert. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the ancient empire of Shurima to greatness for many centuries. After the fall of the empire, he went into self-imposed exile, becoming little more than a legend. Now that the ancient city of Shurima has risen once more, he has returned, determined to ensure it never falls again."
+  },
+  {
+    "id": "644a5080-749d-455a-81a1-6827f86bd482",
+    "championName": "Ashe",
+    "abilities": [
+      "Ranger's Focus",
+      "Volley",
+      "Hawkshot"
+    ],
+    "ulitimateAbility": "Enchanted crystal arrow",
+    "region": "Freljord",
+    "difficulty": "Low",
+    "role": "bot",
+    "range": true,
+    "lore": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice. With her people’s belief that she is the mythological hero Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands."
+  },
+  {
+    "id": "b9a9b85a-eb92-425f-b684-afe0f241eab6",
+    "championName": "Ezreal",
+    "abilities": [
+      "Mystic shot",
+      "Essence flux",
+      "Arcane shift"
+    ],
+    "ulitimateAbility": "Trueshot barrage",
+    "region": "Piltover",
+    "difficulty": "High",
+    "role": "bot",
+    "range": true,
+    "lore": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn’t too far behind. Or ahead. Probably everywhere."
+  },
+  {
+    "id": "46e285b9-81dd-4195-aae5-92ef72204e3b",
+    "championName": "Graves",
+    "abilities": [
+      "End of the line",
+      "Smokescreen",
+      "Quickdraw"
+    ],
+    "ulitimateAbility": "Collateral damage",
+    "region": "Bilgewater",
+    "difficulty": "low",
+    "role": "jungle",
+    "range": true,
+    "lore": "Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater’s criminal underbelly."
+  },
+  {
+    "id": "70b0bf8a-f444-417c-a7de-0e12faab0ebb",
+    "championName": "Pantheon",
+    "abilities": [
+      "Comet Spear",
+      "Shield vault",
+      "Aegis assault"
+    ],
+    "ulitimateAbility": "Grand starfall",
+    "region": "Targon",
+    "difficulty": "low",
+    "role": "Top",
+    "range": false,
+    "lore": "Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn resilience that goes along with it. Atreus now opposes the divine as Pantheon reborn, his unbreakable will fueling the fallen Aspect’s weapons on the field of battle."
+  },
+  {
+    "id": "b35f0ed8-a34a-421f-bb70-bb8f4a07ccdc",
+    "championName": "Ornn",
+    "abilities": [
+      "Volcanic Rupture",
+      "Bellows breath",
+      "Searing charge"
+    ],
+    "ulitimateAbility": "Call of the forge god",
+    "region": "Freljord",
+    "difficulty": "low",
+    "role": "Top",
+    "range": false,
+    "lore": "Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion items of unsurpassed quality. When other deities—especially Volibear—walk the earth and meddle in mortal affairs, Ornn arises to put these impetuous beings back in their place, either with his trusty hammer or the fiery power of the mountains themselves."
+  },
+  {
+    "id": "feae11f1-6fd0-430a-bc27-5137cada6927",
+    "championName": "Pyke",
+    "abilities": [
+      "Bone Skewer",
+      "Ghostwater dive",
+      "Phantom undertow"
+    ],
+    "ulitimateAbility": "Death from below",
+    "region": "Bilgewater",
+    "difficulty": "High",
+    "role": "Support",
+    "range": false,
+    "lore": "Renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish… and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural gifts to bring a swift and gruesome end to those who make their fortune by exploiting others—and a city that prides itself on hunting monsters now finds a monster hunting them."
+  },
+  {
+    "id": "577a3541-97bf-4209-b8a6-24fa520fe75b",
+    "championName": "Rammus",
+    "abilities": [
+      "Powerball",
+      "Defensive ball curl",
+      "Frenzying taunt"
+    ],
+    "ulitimateAbility": "Soaring slam",
+    "region": "Shurima",
+    "difficulty": "low",
+    "role": "Jungle, top",
+    "range": false,
+    "lore": "Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes—from demigod, to sacred oracle, to a mere beast transformed by magic. Whatever the truth may be, Rammus keeps his own counsel and stops for no one as he roams the Shuriman desert."
+  },
+  {
+    "id": "44c37dc3-a038-4111-94c5-7591f3b1e2a2",
+    "championName": "Malzahar",
+    "abilities": [
+      "Call of the void",
+      "Void swarm",
+      "Malefic visions"
+    ],
+    "ulitimateAbility": "Nether grasp",
+    "region": "Shurima",
+    "difficulty": "low",
+    "role": "mid",
+    "range": false,
+    "lore": "A zealous seer dedicated to the unification of all life, Malzahar truly believes the newly emergent Void to be the path to Runeterra’s salvation. In the desert wastes of Shurima, he followed the voices that whispered in his mind, all the way to ancient Icathia. Amidst the ruins of that land, he gazed into the dark heart of the Void itself, and was gifted new power and purpose. Malzahar now sees himself as a shepherd, empowered to bring others into the fold… or to release the voidling creatures that dwell beneath."
+  },
+  {
+    "id": "642021cb-4e0c-4828-942b-056339cc81aa",
+    "championName": "Vayne",
+    "abilities": [
+      "Tumble",
+      "Silver bolts",
+      "Condemn"
+    ],
+    "ulitimateAbility": "Final hour",
+    "region": "Demacia",
+    "difficulty": "High",
+    "role": "Bot",
+    "range": true,
+    "lore": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts."
+  }
+]
