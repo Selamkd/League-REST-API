@@ -3,11 +3,13 @@ import express from 'express';
 import nodemon from 'nodemon';
 import morgan from 'morgan';
 import { v4 as uuidv4 } from 'uuid';
-
+import { config as configDotenv } from 'dotenv';
+configDotenv();
 //deploying to heruku
 
 //set port number
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
+
 const app = express();
 
 // bring in CRUD functions from champions.js
@@ -100,11 +102,9 @@ app.delete('/champions/:id', async function (req, res) {
     return res.status(404).json({ error: 'Champion not found' });
   } else {
     await deleteChampion(id);
-    res
-      .status(200)
-      .json({
-        message: 'Champion deleted successfully',
-        champion: deletedChampion,
-      });
+    res.status(200).json({
+      message: 'Champion deleted successfully',
+      champion: deletedChampion,
+    });
   }
 });
