@@ -36,8 +36,10 @@ app.listen(PORT, function () {
   console.log(`Sever is now listening on http://localhost:${PORT}`);
 });
 
-//add welcome message to test
-
+//redirect to /champions
+app.get('/', function (req, res) {
+  res.redirect('/champions');
+});
 // get all champions
 app.get('/champions', async function (req, res) {
   const champions = await getChampions();
