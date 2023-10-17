@@ -20,6 +20,9 @@
     "nodemon": "^3.0.1"
   },
   "dependencies": {
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "express": "*",
+    "body-parser": "*",
+    "bcrypt": "^0.8.5"
   }
 }
