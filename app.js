@@ -37,9 +37,6 @@ app.listen(PORT, function () {
 });
 
 //add welcome message to test
-app.get('/', function (req, res) {
-  res.send("Welcome to Team 31's League of Legends API!");
-});
 
 // get all champions
 app.get('/champions', async function (req, res) {
