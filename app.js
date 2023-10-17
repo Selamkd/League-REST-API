@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 4000;
 
 const app = express();
 
-// bring in CRUD functions from champions.js
+// bring in CRUD functions from crudchamps.js
 import {
   getChampions,
   getChampionByID,
