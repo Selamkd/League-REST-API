@@ -4,12 +4,12 @@ import nodemon from 'nodemon';
 import morgan from 'morgan';
 import { v4 as uuidv4 } from 'uuid';
 import { config as configDotenv } from 'dotenv';
+import cors from 'cors';
 configDotenv();
 //deploying to heruku
 
 //set port number
 const PORT = process.env.PORT || 4000;
-
 const app = express();
 
 // bring in CRUD functions from crudchamps.js
@@ -26,7 +26,11 @@ import {
 app.use(express.json());
 app.use(morgan('dev'));
 //app.use(cors('dev')) *add back in if we add frontend*
-
+app.use(
+  cors({
+    origin: `http://127.0.0.1:5500`,
+  })
+);
 //add port listening
 app.listen(PORT, function () {
   console.log(`Sever is now listening on http://localhost:${PORT}`);
