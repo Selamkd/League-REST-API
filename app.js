@@ -20,7 +20,7 @@ import {
   addChampion,
   // editChampionData,
   deleteChampion,
-} from './champions.js';
+} from './crudchamps.js';
 
 //Set up modules for use
 app.use(express.json());
